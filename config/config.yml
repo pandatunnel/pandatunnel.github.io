@@ -13,7 +13,7 @@ locale: ~                           # Your PHP installation might require you to
 # Theme
 #
 theme: clean-blog                   # The name of your custom theme
-themes_url: ~https://pandatunnel.github.io/themes                       # Pico will try to guess the URL to the themes dir of your installation;
+themes_url: https://pandatunnel.github.io/themes                       # Pico will try to guess the URL to the themes dir of your installation;
                                     #     If this fails, override it here. Example: https://example.com/pico/themes/
 theme_config:                       # Additional theme-specific config
     widescreen: false               # Default theme: Use more horizontal space (i.e. make the site container wider)
